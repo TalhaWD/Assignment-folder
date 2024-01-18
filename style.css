@@ -1,0 +1,57 @@
+.box{
+    border: 1px solid black;
+    color: blue;
+}
+.trader abbr{
+color: blue;
+
+}
+.head{
+    display: flex;
+    
+}
+.head h3{
+    margin: 10px;
+}
+.head .r{
+margin: 9px 900px;
+position: absolute;
+}
+.head .v{
+    position: absolute;
+    margin: 9px 1000px;
+}
+.head .h{
+    position: absolute;
+    margin: 9px 1100px;
+}
+.IMG {
+    border: 2px solid black;
+    float: right;
+
+}
+.IMG img{
+    width: 100%;
+    height: 200px;
+}
+.IMG .display{
+margin-top: -40px;
+float: right;
+}
+.IMG .play{
+float: right;
+
+margin-left: 80px;
+margin-top: -40px;
+}
+.IMG .died{
+    
+/* position: absolute; */
+margin-top: 90px;
+}
+.trader a{
+    margin: 10px;
+    margin-left: 190px;
+    text-decoration: none;
+
+}
